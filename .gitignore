@@ -2,3 +2,5 @@
 env/
 ngrok
 migrations/
+novo_env/
+__pycache__/
